@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm WearTime</h1>
-<h3 align="center">A passionate Programmer from Indonesia</h3>
+<h3 align="center">I have interest in Software Engineering</h3>
 <h4 align="center"><strong>I Like sleep and eating</strong><h6>
 
 

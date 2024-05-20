@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm WearTime</h1>
 <h3 align="center">I have interest in Software Engineering</h3>
 <h4 align="center"><strong>I Like sleep and eating</strong><h6>
-<img align="right" height="150" src="assets/bocchi.gif"  />
+<img align="right" height="150" src="assets/bocchi_2.gif"  />
 
 <h3 align="left">Languages:</h3>
 
